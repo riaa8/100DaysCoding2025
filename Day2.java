@@ -7,7 +7,6 @@ public class Day2 {
         String camp = "Universitas Sulawesi Barat";
         System.out.printf("Universitas : %s", camp);
         
-
     }
     
 }
