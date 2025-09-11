@@ -20,8 +20,6 @@ public class Day3 {
 
         System.out.println("Ini mi saja dulu na __><__ ");
         
-
-      
     }
     
 }
