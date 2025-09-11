@@ -23,6 +23,7 @@ public class Day4 {
         System.out.printf("Umur:\t%d tahun\n", umur); //(%d --> digunakan untuk tipe data decimal/bilangan bulat)
         System.out.printf("Berat Badan:\t%.2f\n", bb); // (%.2f --> digunakan untuk tipe data bilangan pecahan)
         System.out.printf("Note:\t\"Semangat Yaaaa!\"\n");
+        
     }
 }
 
