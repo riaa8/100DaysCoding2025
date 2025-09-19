@@ -18,11 +18,11 @@ public class Day12 {
         System.out.print("masukkan univ: ");
         String un = sc.nextLine();
         
-        System.out.println("==============BOIDATA=============");
+        System.out.println("==============BIODATA=============");
         System.out.println("Nama : " + nm);
         System.out.println("Umur : " + um);
         System.out.println("Alamat : " + alamat);
-        System.out.println("Kampaus : " + un);
+        System.out.println("Kampus : " + un);
     }
     
 }
