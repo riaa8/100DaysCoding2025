@@ -2,7 +2,7 @@ package Package;
 public class Day26 {
     public static void main(String[] args) {
         //Operator Penugasan (=, +=, -=, dll).
-        int x = 10;
+        int x = 20;
          
         x += 5; // sama dengan x = x + 5
         System.out.println("x += 5: " + x);
@@ -15,6 +15,9 @@ public class Day26 {
 
         x /= 4; // sama dengan x = x / 4
         System.out.println("x /= 4: " + x);
+        
+        x %= 4;
+        System.out.println("x %= 4 " + x);
     }
     
 }
