@@ -1,8 +1,8 @@
-package Evaluasi_2;
+package Package;
 
 import java.util.Scanner;
 
-public class soal_1 {
+public class Day27 {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
         
