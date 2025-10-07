@@ -10,7 +10,7 @@ public class Day30 {
         System.out.println(a >= b);
         System.out.println(b >= c);
         System.out.println(b <= c);
-        
+
     }
     
 }
